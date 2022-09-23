@@ -1,0 +1,58 @@
+,,,,,,,,,,,
+,Time Series Workbook,,,,,,,,,,
+,,,,,,,,,,,
+,,,,,,,,,,,
+,6432.0 Total Value of Dwellings,,,,,,,,,,
+,"Table 1. Total Value of Dwellings, All Series",,,,,,,,,,
+,,,,,,,,,,,
+,,,Enquiries,,,,,,,,
+,,,,,,,,,,,
+Data Item Description,,,Series Type,Series ID,Series Start,Series End,No. Obs.,Unit,Data Type,Freq.,Collection Month
+,,,,,,,,,,,
+Mean price of residential dwellings ;  Australia ;,,,Original,A83728647F,Sep-2011,Jun-2022,44,$'000,AVERAGE,Quarter,3
+Mean price of residential dwellings ;  Australian Capital Territory ;,,,Original,A83728642V,Sep-2011,Jun-2022,44,$'000,AVERAGE,Quarter,3
+Mean price of residential dwellings ;  New South Wales ;,,,Original,A83728607L,Sep-2011,Jun-2022,44,$'000,AVERAGE,Quarter,3
+Mean price of residential dwellings ;  Northern Territory ;,,,Original,A83728637A,Sep-2011,Jun-2022,44,$'000,AVERAGE,Quarter,3
+Mean price of residential dwellings ;  Queensland ;,,,Original,A83728617T,Sep-2011,Jun-2022,44,$'000,AVERAGE,Quarter,3
+Mean price of residential dwellings ;  South Australia ;,,,Original,A83728622K,Sep-2011,Jun-2022,44,$'000,AVERAGE,Quarter,3
+Mean price of residential dwellings ;  Tasmania ;,,,Original,A83728632R,Sep-2011,Jun-2022,44,$'000,AVERAGE,Quarter,3
+Mean price of residential dwellings ;  Victoria ;,,,Original,A83728612F,Sep-2011,Jun-2022,44,$'000,AVERAGE,Quarter,3
+Mean price of residential dwellings ;  Western Australia ;,,,Original,A83728627W,Sep-2011,Jun-2022,44,$'000,AVERAGE,Quarter,3
+Number of residential dwellings ;  Australia ;,,,Original,A83728645A,Sep-2011,Jun-2022,44,000,STOCK,Quarter,3
+Number of residential dwellings ;  Australian Capital Territory ;,,,Original,A83728640R,Sep-2011,Jun-2022,44,000,STOCK,Quarter,3
+Number of residential dwellings ;  New South Wales ;,,,Original,A83728605J,Sep-2011,Jun-2022,44,000,STOCK,Quarter,3
+Number of residential dwellings ;  Northern Territory ;,,,Original,A83728635W,Sep-2011,Jun-2022,44,000,STOCK,Quarter,3
+Number of residential dwellings ;  Queensland ;,,,Original,A83728615L,Sep-2011,Jun-2022,44,000,STOCK,Quarter,3
+Number of residential dwellings ;  South Australia ;,,,Original,A83728620F,Sep-2011,Jun-2022,44,000,STOCK,Quarter,3
+Number of residential dwellings ;  Tasmania ;,,,Original,A83728630K,Sep-2011,Jun-2022,44,000,STOCK,Quarter,3
+Number of residential dwellings ;  Victoria ;,,,Original,A83728610A,Sep-2011,Jun-2022,44,000,STOCK,Quarter,3
+Number of residential dwellings ;  Western Australia ;,,,Original,A83728625T,Sep-2011,Jun-2022,44,000,STOCK,Quarter,3
+Value of dwelling stock; Owned by All Sectors ;  Australia ;,,,Original,A83728646C,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by All Sectors ;  Australian Capital Territory ;,,,Original,A83728641T,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by All Sectors ;  New South Wales ;,,,Original,A83728606K,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by All Sectors ;  Northern Territory ;,,,Original,A83728636X,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by All Sectors ;  Queensland ;,,,Original,A83728616R,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by All Sectors ;  South Australia ;,,,Original,A83728621J,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by All Sectors ;  Tasmania ;,,,Original,A83728631L,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by All Sectors ;  Victoria ;,,,Original,A83728611C,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by All Sectors ;  Western Australia ;,,,Original,A83728626V,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Households ;  Australia ;,,,Original,A83728643W,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Households ;  Australian Capital Territory ;,,,Original,A83728638C,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Households ;  New South Wales ;,,,Original,A83728603C,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Households ;  Northern Territory ;,,,Original,A83728633T,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Households ;  Queensland ;,,,Original,A83728613J,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Households ;  South Australia ;,,,Original,A83728618V,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Households ;  Tasmania ;,,,Original,A83728628X,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Households ;  Victoria ;,,,Original,A83728608R,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Households ;  Western Australia ;,,,Original,A83728623L,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Non-Households ;  Australia ;,,,Original,A83728644X,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Non-Households ;  Australian Capital Territory ;,,,Original,A83728639F,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Non-Households ;  New South Wales ;,,,Original,A83728604F,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Non-Households ;  Northern Territory ;,,,Original,A83728634V,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Non-Households ;  Queensland ;,,,Original,A83728614K,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Non-Households ;  South Australia ;,,,Original,A83728619W,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Non-Households ;  Tasmania ;,,,Original,A83728629A,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Non-Households ;  Victoria ;,,,Original,A83728609T,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+Value of dwelling stock; Owned by Non-Households ;  Western Australia ;,,,Original,A83728624R,Sep-2011,Jun-2022,44,$ Millions,STOCK,Quarter,3
+,,,,,,,,,,,
+© Commonwealth of Australia  2022,,,,,,,,,,,
